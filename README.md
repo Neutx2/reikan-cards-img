@@ -1,2 +1,4 @@
-# reikan-cards-img
-Reikan Cards -- listing images (public host for eBay Item photo URLs). Images only; no prices, no inventory.
+# Reikan Cards — listing images
+
+Public image host for eBay listings. Scans of cards offered by Reikan Cards (Thunder Bay, ON).
+Images only. No prices, no inventory, no personal data.
